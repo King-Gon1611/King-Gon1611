@@ -18,20 +18,16 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System) (WORK IN-PROGRESS</b>
   - [osTicket: Prerequisites and Installation](https://github.com/King-Gon1611/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/King-Gon1611/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure (WORK IN-PROGRESS</b>
   - [Configuring On Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: www.linkedin.com/in/luis-gonzalez-salas-976642205
-
+<a href="https://www.linkedin.com/in/king-gon1611/"><img src="![download](https://github.com/user-attachments/assets/e7e64001-e5c4-48a5-a9c0-ddaabc2a3a75)" alt="Linkedin" style="width:42px;height:42px;"></a>
