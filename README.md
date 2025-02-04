@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System) (WORK IN-PROGRESS</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/King-Gon1611/_osTicketpre)
   - [osTicket: Post-Installation Configuration](https://github.com/King-Gon1611/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure (WORK IN-PROGRESS</b>
+- <b>Microsoft Azure (WORK IN-PROGRESS)</b>
   - [Configuring On Active Directory within Azure VMs](https://github.com/King-Gon1611/Microsoft-Azure/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/King-Gon1611/Azure-Network-Protocols)
 
