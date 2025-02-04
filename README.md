@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/King-Gon1611/_osTicketpre)
   - [osTicket: Post-Installation Configuration](https://github.com/King-Gon1611/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure (WORK IN-PROGRESS)</b>
   - [Configuring On Active Directory within Azure VMs](https://github.com/King-Gon1611/Microsoft-Azure/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/King-Gon1611/Azure-Network-Protocols)
