@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - [osTicket: Ticket Lifecycle Examples](https://github.com/King-Gon1611/TICKET-LIFECYLE)
 - <b>Microsoft Azure (WORK IN-PROGRESS)</b>
   - [Infrastructure/Configs Active Directory](https://github.com/King-Gon1611/CONFIGURE-AD)
-  - [Deploying Active Directory}()
+  - [Deploying Active Directory}( WORK-PROGRESSING)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/King-Gon1611/Azure-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
