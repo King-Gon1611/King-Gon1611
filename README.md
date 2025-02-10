@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   - [osTicket: Post-Installation Configuration](https://github.com/King-Gon1611/osTicket-Post-installpt2)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/King-Gon1611/TICKET-LIFECYLE)
 - <b>Microsoft Azure (WORK IN-PROGRESS)</b>
-  - [Configuring On Active Directory within Azure VMs](https://github.com/King-Gon1611/CONFIGURE-AD)
+  - [Infrastructure/Configs Active Directory](https://github.com/King-Gon1611/CONFIGURE-AD)
+  - [Deploying Active Directory}()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/King-Gon1611/Azure-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
