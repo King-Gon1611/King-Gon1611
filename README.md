@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Luis, an <a href="https://www.linkedin.com/in/luis-gonzalez-salas-976642205/">IT Professional</a>
+<h1>Hi, I'm Luis, an aspiring IT Professional</a>
   </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   - [Deploying Active Directory}( WORK-PROGRESSING)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/King-Gon1611/Azure-Network-Protocols)
 
-<h2>🤳Connect with me:</h2>
+
 
 
 
