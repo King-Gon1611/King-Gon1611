@@ -28,7 +28,3 @@ Here are some ideas to get you started:
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/King-Gon1611/Azure-Network-Protocols)
 
 
-
-
-
-<a href="https://www.linkedin.com/in/king-gon1611/"><img src="![download](https://github.com/user-attachments/assets/e7e64001-e5c4-48a5-a9c0-ddaabc2a3a75)" alt="Linkedin" style="width:42px;height:42px;"></a>
